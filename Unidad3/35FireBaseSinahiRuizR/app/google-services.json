@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "991439571492",
+    "firebase_url": "https://fir-sinahiruizr.firebaseio.com",
+    "project_id": "fir-sinahiruizr",
+    "storage_bucket": "fir-sinahiruizr.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991439571492:android:7002104d59cdb9e1",
+        "android_client_info": {
+          "package_name": "com.example.a35firebasesinahiruizr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaldTw4i2fJwq62kNO9ZjxBAHCFqvf144"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991439571492-5tl5kibg3l7mmhbs9gsmistfqdsji5ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
