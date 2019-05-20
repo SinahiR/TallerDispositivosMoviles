@@ -1,0 +1,4 @@
+#Mon May 20 08:23:28 CDT 2019
+base.0=C\:\\Users\\Sinahi\\AndroidStudioProjects\\55CallLog_SinahiRuiz\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

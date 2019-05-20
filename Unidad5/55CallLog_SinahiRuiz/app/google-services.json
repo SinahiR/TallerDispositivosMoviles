@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "191857934085",
+    "firebase_url": "https://calllog-7d65c.firebaseio.com",
+    "project_id": "calllog-7d65c",
+    "storage_bucket": "calllog-7d65c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191857934085:android:37facaab785a92be",
+        "android_client_info": {
+          "package_name": "com.example.a55calllog_sinahiruiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191857934085-8m3v285hrnc5n43mth34lofoqheld3gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJOOJ_asYyN9mXVzLvdkpOSWT91eGvc0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191857934085-8m3v285hrnc5n43mth34lofoqheld3gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
